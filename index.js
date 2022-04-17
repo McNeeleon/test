@@ -1,4 +1,5 @@
-for (let index = 0; index < array.length; index++) {
-	const element = array[index];
-	console.log(element);
+for (let index = 0; index < 10; index++) {
+	console.log(index);
 }
+
+document.querySelector("h1").innerHTML = "Foo";
